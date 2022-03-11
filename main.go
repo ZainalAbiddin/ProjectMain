@@ -17,6 +17,7 @@ func main() {
 	moduleProject.Perkenalan()
 	moduleProject.Pengguna(nama)
 	visi, misi := moduleProject.VisiMisi()
+	fmt.Println(visi)
 	fmt.Println(misi)
 	moduleProject.Ekstrakulikuler(kegiatan)
 	fmt.Println("")
