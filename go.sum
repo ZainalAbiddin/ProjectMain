@@ -2,3 +2,9 @@ github.com/ZainalAbiddin/moduleProject v1.0.0 h1:19NeOOBIJ7+Gc3Goy0iEsEccr/VYFV8
 github.com/ZainalAbiddin/moduleProject v1.0.0/go.mod h1:Xx+OtET8VJ9D1mA7zGYDv4ItYxmyy72viFXkdZgX2w4=
 github.com/ZainalAbiddin/moduleProject v1.0.4 h1:W/EH0hzb1Ct/IyOlPUzmvgWPubwa+HCD4Jj3feNgvYs=
 github.com/ZainalAbiddin/moduleProject v1.0.4/go.mod h1:Xx+OtET8VJ9D1mA7zGYDv4ItYxmyy72viFXkdZgX2w4=
+github.com/ZainalAbiddin/moduleProject/v2 v2.0.0 h1:EDXouilS7a/BbjgeSxNz11OptVPaWqF37FPFFtvEll0=
+github.com/ZainalAbiddin/moduleProject/v2 v2.0.0/go.mod h1:diVbEa4gY7mmRdhiZd52necYMcoRL8RVa2TWuOwm1Oo=
+github.com/ZainalAbiddin/moduleProject/v2 v2.0.2 h1:wNjZ169fzZ3it6oOfeE3lSu6/3+H1oWfQgxk1nQPtjM=
+github.com/ZainalAbiddin/moduleProject/v2 v2.0.2/go.mod h1:diVbEa4gY7mmRdhiZd52necYMcoRL8RVa2TWuOwm1Oo=
+github.com/ZainalAbiddin/moduleProject/v2 v2.0.3 h1:zN5EE9qGdFdiZmJPAQTFQuZ9barBujXeFfIIHhc4J08=
+github.com/ZainalAbiddin/moduleProject/v2 v2.0.3/go.mod h1:diVbEa4gY7mmRdhiZd52necYMcoRL8RVa2TWuOwm1Oo=
