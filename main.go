@@ -29,11 +29,14 @@ func main() {
 	moduleProject.Perkenalan()
 	moduleProject.Verifikasi(nama, moduleProject.Ujinama)
 	visi, misi := moduleProject.VisiMisi()
-	fmt.Println("")
+	fmt.Println("===================")
 	fmt.Println("Visi MA MAQDIS : ", visi)
 	fmt.Println("Misi MA MAQDIS : ", misi)
+	fmt.Println("===================")
 	moduleProject.Ekstrakulikuler(kegiatan)
+	fmt.Println("===================")
 
+	//method struct tanpa interface
 	bernilai := Nilaimurid{
 		Namamurid: "Kelas Sulaiman",
 		kelas:     3,
@@ -77,7 +80,15 @@ func main() {
 	fmt.Println("Contact Person :")
 	fmt.Printf("%+v\n", contactPerson)
 	fmt.Println("")
-	fmt.Println("tes repository versi 2.0.0 ")
+
+	//interface
+	media := []moduleProject.Mediasocial{moduleProject.Instagram{}, moduleProject.Youtube{}}
+	for _, medsos := range media {
+
+		fmt.Println("Media Sosial :", medsos.Media())
+	}
+	fmt.Println("===================")
+
 }
 
 func (n Nilaimurid) Nilai() {
